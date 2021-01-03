@@ -40,6 +40,10 @@ body {
 
 }
 
+hr {
+  width: 87%;
+  margin: 40px auto;
+}
 /* GRID */
 .grid {
   display: flex;
@@ -58,6 +62,7 @@ body {
 
 .grid-post:hover {
   border-radius: 15px;
+  box-shadow: 0px 5px 15px black;
 }
 
 .grid-description {
@@ -67,8 +72,20 @@ body {
 /* FOOTER */
 footer {
   text-align: center;
-  margin: 10px 0;
+  margin: 0 auto;
+  max-width: 900px;
   color: #d8d4cf;
+  background: rgb(53, 53, 53);
+}
+
+footer a {
+  text-decoration: none;
+  color: #d8d4cf;
+  transition: 0.3s;
+}
+
+footer a:hover {
+  color: red;
 }
 
 
