@@ -71,9 +71,12 @@ hr {
 
 /* FOOTER */
 footer {
-  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
   margin: 0 auto;
   max-width: 900px;
+  height: 2rem;
   color: #d8d4cf;
   background: rgb(53, 53, 53);
 }
