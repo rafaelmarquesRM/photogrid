@@ -74,9 +74,13 @@ footer {
   display: flex;
   align-items: center;
   justify-content: center;
+
+  text-align: center;
+
   margin: 0 auto;
+  height: 3rem;
   max-width: 900px;
-  height: 2rem;
+
   color: #d8d4cf;
   background: rgb(53, 53, 53);
 }
