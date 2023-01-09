@@ -1,7 +1,7 @@
-# photogrid
+# Photogrid
 ## Este é o resultado de um desafio
 <ul>
   <li>Desafio proposto por https://github.com/WoMakersCode/challenges-front-end</li> <br>
-  <li>Veja como ficou https://rafitamqs.github.io/photogrid</li>
+  <li>Veja como ficou https://rafaelmarquesrm.github.io/photogrid</li>
   <li>Incrementei com a função de like</li>
 </ul>
